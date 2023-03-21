@@ -19,3 +19,24 @@ C:\Users\Hegert Taresalu\Desktop\Roulette-table\Roulette-table\obj\Debug\net6.0-
 C:\Users\Hegert Taresalu\Desktop\Roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.pdb
 C:\Users\Hegert Taresalu\Desktop\Roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.genruntimeconfig.cache
 C:\Users\Hegert Taresalu\Desktop\Roulette-table\Roulette-table\obj\Debug\net6.0-windows\ref\Roulette-table.dll
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\bin\Debug\net6.0-windows\Roulette-table.exe
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\bin\Debug\net6.0-windows\Roulette-table.deps.json
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\bin\Debug\net6.0-windows\Roulette-table.runtimeconfig.json
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\bin\Debug\net6.0-windows\Roulette-table.dll
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\bin\Debug\net6.0-windows\Roulette-table.pdb
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.csproj.AssemblyReference.cache
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table_MarkupCompile.cache
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table_MarkupCompile.lref
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.g.resources
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.dll
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\refint\Roulette-table.dll
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.pdb
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\Roulette-table.genruntimeconfig.cache
+C:\Users\opilane\Source\Repos\HegertTaresalu\roulette-table\Roulette-table\obj\Debug\net6.0-windows\ref\Roulette-table.dll
